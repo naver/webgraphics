@@ -1,0 +1,50 @@
+Except as noted below, webgraphics is provided under the following license:
+
+	Copyright (c) 2016 NAVER Corp.
+
+	Redistribution and use in source and binary forms, with or without
+	modification, are permitted provided that the following conditions are met:
+
+	1. Redistributions of source code must retain the above copyright notice, 
+	this list of conditions and the following disclaimer.
+
+	2. Redistributions in binary form must reproduce the above copyright notice, 
+	this list of conditions and the following disclaimer in the documentation 
+	and/or other materials provided with the distribution.
+
+	3. Neither the name of the copyright holder nor the names of its contributors 
+	may be used to endorse or promote products derived from this software 
+	without specific prior written permission.
+
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+	AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+	IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+	ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE 
+	LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+	CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
+	SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+	INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
+	CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+	ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+	POSSIBILITY OF SUCH DAMAGE.
+
+-----
+
+The Mozilla source code is licensed as follows:
+
+	This Source Code Form is subject to the terms of the Mozilla Public
+	License, v. 2.0. If a copy of the MPL was not distributed with this
+	file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+	Full text of MPL is at NOTICE file.
+
+-----
+
+The Windows Template Library (WTL) is licensed as follows:
+
+	Copyright (C) Microsoft Corporation, WTL Team. All rights reserved.
+
+	This file is a part of the Windows Template Library.
+	The use and distribution terms for this software are covered by the
+	Microsoft Public License (http://opensource.org/licenses/MS-PL)
+	which can be found in the file MS-PL.txt at the root folder.
